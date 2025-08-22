@@ -17,8 +17,5 @@ It provides CRUD operations for products, search functionality, image upload (st
 ---
 
 
-### Prerequisites
-- JDK 21  
-- PostgreSQL 14+  
-- Maven  
+
 
